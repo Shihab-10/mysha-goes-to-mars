@@ -1,0 +1,8 @@
+:root {
+  --theme-bg: #020617;
+  --panel-bg: rgba(15, 23, 42, 0.82);
+  --panel-border: rgba(148, 163, 184, 0.28);
+  --accent: #7dd3fc;
+  --text-muted: #cbd5e1;
+  --text-strong: #f8fafc;
+}
